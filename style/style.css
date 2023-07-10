@@ -1,0 +1,2390 @@
+.first_back{
+  height: 60vh;
+  width: 70%;
+  margin-left: 15%;
+  margin-bottom: -100%;
+}
+.second_back{
+  height: 60vh;
+  width: 70%;
+  margin-left: 15%;
+  visibility: hidden;
+  margin-bottom: -100%;
+}
+.My_name2,.My_work2{
+  height:7vh;
+  width: 80%;
+  text-align: center;
+  font-size:30px;
+  font-family:Leelawadee;
+}
+.My_name2{
+  margin-left: 19%;
+  font-weight: 600;
+  width: 25%;
+  transform: translateY(420%);
+  border-bottom: 2px solid #1f67db;
+
+}
+.My_work2{
+  font-size: 16px;
+  text-align: start;
+  width: 30%;
+  transform: translateY(430%);
+  margin-left: 17%;
+}
+
+
+.My_face2{
+  height:35vh;
+  width: 20%;
+  /* background-color: #1f67db; */
+  transform: translateY(-5%);
+  margin-left: 21%;
+  margin-bottom: -100%;
+  border-radius: 50%;
+}
+
+
+.linkedIN2,.GitHub2{
+  height: 5vh;
+  width:3%;
+}
+.linkedIN2{
+  margin-left: 28%;
+  transform: translateY(-440%);
+  
+}
+.GitHub2{
+  margin-left: 32%;
+  transform: translateY(-544%);
+}
+svg{
+  color: #1b1a1a;
+}
+svg:hover{
+  transition: .3s ease-in-out; 
+  color: rgb(78, 240, 199);
+}
+
+
+
+.greetings{
+  height: 10vh;
+  width: 20%;
+  /* background-color: #1f67db; */
+  font-size: 50px;
+  margin-left:49% ;
+  transform: translateY(-229%);
+  text-align: start;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #1b1a1a;
+  padding-left: .1%;
+  
+}
+
+.intro2{
+  height: 6vh;
+  width: 35%;
+  font-size: 13px;
+  font-family: Leelawadee;
+  transform: translateY(-405%);
+  text-align: start;
+  color: #1b1a1a;
+  /* background-color: #B85BBB; */
+  margin-left: 49%;
+  padding-left: .1%;
+}
+
+.Me2{
+  height: 5vh;;
+  color: #000000;
+  transform: translateY(-475%);
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Leelawadee;
+  width: 17%;
+  text-align: start;
+  margin-left: 49%;
+  /* background-color: #34cc94; */
+  border-bottom: 1px solid #1f67db;
+  padding-left: .1%;
+}
+
+.home_details2{
+  height: 30vh;
+  width: 34%;
+  font-size: 18px;
+  margin-left: 49%;
+  font-family: Leelawadee;
+  transform: translateY(-78%);
+  color: #1b1a1a;
+  /* background-color: chocolate; */
+  padding-left: .1%;
+}
+
+
+
+a {
+  /* box-shadow: inset 0 0 0 0 #54b3d6; */
+  color: #000000;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+a:hover {
+  /* box-shadow: inset 200px 0 0 0 #54b3d6; */
+  color: #54ecb4;
+}
+.anim{
+  height:30vh;
+   width:30%;
+}
+
+.Net_intern,.Net_intern_info{
+  padding: 1%;
+  text-align: end;
+  height:15vh; 
+  width:20%; 
+  background-color:#22232B;
+  margin-left: 15%;
+}
+
+
+.Free,.Free_info{
+  padding: 1%;
+  text-align: end;
+  height:15vh;
+  width:20%; 
+  margin-top:2%;
+  background-color:#22232B;
+  margin-left: 15%;
+}
+.Net_intern_info,.Free_info{
+  background-color: #22232B;;
+  margin-left: 43%;
+  width: 50%;
+  margin-bottom: -100%;
+  text-align: start;
+  
+}
+.Net_intern_info{
+  transform: translateY(-100%);
+}
+.Free_info{
+  transform: translateY(-120%);
+}
+.vertical {
+  border-left: 1px solid #22232B;;
+  height: 35vh;
+  position:absolute;
+  left: 39%;
+  transform: translateY(-100%);
+}
+
+/* skills------------------------------------------ */
+.Data_analysis,.Data_viz,.Data_extract{
+  height:5vh;
+  width:20%;
+  color:#B85BBB;
+  font-size:20px;
+  margin-left: 15%;
+  text-align: end;
+  border-bottom: 1px solid #22232B;
+  margin-bottom: -10%;
+}
+.Data_viz,.Data_pred,.Ml{
+  margin-top: 2%;
+}
+.Data_extract,.python_prog,.front_end{
+  margin-top: 4%;
+}
+
+.Data_pred,.web_dev,.python_prog{
+  height:5vh;
+  width:20%;
+  color:#B85BBB;
+  font-size:20px;
+  margin-left: 40%;
+  text-align: end;
+  border-bottom: 1px solid  #22232B;
+  margin-bottom: -10%;
+  transform: translateY(-138%);
+}
+
+
+.sql,.Ml,.front_end{
+  height:5vh;
+  width:20%;
+  color:#B85BBB;
+  font-size:20px;
+  margin-left: 40%;
+  text-align: end;
+  border-bottom: 1px solid  #22232B;
+  margin-left: 65%;
+  margin-bottom: -10%;
+  transform: translateY(-276%);
+}
+
+.anim{
+  margin-left: -10%;
+  margin-bottom: -100%;
+  /* transform: translateY(-80%); */
+  margin-top: -15%;
+}
+
+/* Education------------------------------------- */
+.Bachelors,.High,.Ml_cert,.Ds_cert{
+  padding-top: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  text-align: end;
+  height:14vh; 
+  width:40%; 
+  background-color:#22232B;
+  margin-left: 31%;
+  margin-top: 2%;
+}
+
+.Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+  background-color: #22232B;;
+  width: 80%;
+  text-align: start; 
+  height: 14vh;
+  margin-top: 2%;
+  margin-left: -15%;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  /* margin-bottom: -100%; */
+  /* transform: translateY(-535%); */
+  
+}
+
+/* ````````````contact``````````````````` */
+
+.vertical2{
+  border-left: 1px solid #22232B;;
+  height: 61vh;
+  position:absolute;
+  left: 39%;
+  transform: translateY(-96%);
+  margin-bottom: -100%;
+}
+
+.cont{
+  height:50vh;
+  width:60%;
+  margin-left: 10%;
+  transform: translateY(-20%);
+  
+}
+
+/* Projects``````````````````````````````````````````` */
+.Vina a:hover{
+  color: #34cc94;
+}
+.Time a:hover{
+  color: #34cc94;
+
+}
+.Personal a:hover{
+  color: #34cc94;
+}
+.Heart a:hover{
+  color: #34cc94;
+}
+.Neural a:hover{
+  color: #34cc94;
+
+}
+.Vina{
+  font-size: 18px;
+  height:5vh;
+   width:40%;
+  font-size:18px;
+   margin-top:-5%; 
+   margin-left:38%;
+
+}
+.Time{
+  width: 60%;
+  margin-left: 35%;
+  margin-top: -5.5%;
+}
+.Personal{
+  font-size:18px; 
+  margin-top:-6.2%;
+  margin-left:27%;
+  width: 60%;
+}
+
+.Heart,.Neural{
+  height:5vh;
+   width:60%;  
+   color:#B85BBB;
+  font-size:18px;
+   margin-top:-6.2%; 
+   margin-left:22%;
+}
+
+.Neural{
+  margin-left:17%;
+}
+.Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+  height:5vh;
+  width:100%;
+  font-size:16px; 
+  margin-top:-3%;
+}
+.Time_info{
+  margin-top:-3.5%;
+}
+.Personal_info,.Neural_info,.Heart_info{
+ margin-top:-4%;
+}
+
+
+.Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+  height:5vh;
+   width:40%;
+  font-size:13px; 
+  margin-top:11%;
+}
+.Time_further{
+  margin-top:12%;
+}
+.Personal_further{
+  margin-top:13%;
+   margin-bottom:10%;
+}
+.Heart_further{
+margin-top:5%;
+ margin-bottom:10%;
+}
+.Neural_further{
+margin-top:4%; 
+margin-bottom:10%;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=email],textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: none; /* Gray border */
+  outline: none;
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 1%; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally)*/
+}
+
+/* Style the submit button with a specific background color etc */
+button[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 6px 60px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+button[type=submit]:hover {
+  background-color: #345683;
+}
+
+.about_app_title{
+  margin-top: 8%;
+  font-size: 20px;
+  font-family: Leelawadee;
+}
+.about_app{
+  font-size: 18px;
+  font-family: Leelawadee;
+}
+
+/* links */
+a:link, a:visited {
+  /* background-color: #f44336; */
+  color: #B85BBB;
+  text-decoration: none;
+  display: inline-block;
+}
+/* st tabs */
+
+/* ```````````````````````screeen scaling```````````````````````````````````````````` */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* `````````````````````````````````````````````media @1250````````````````````````````````````````````` */
+@media screen and (max-width: 1250px) {
+  .My_face2{
+    margin-left: 21.5%;
+  }
+  .My_name2{
+    font-size: 20px;
+    transform: translateY(400%);
+  }
+  .My_work2{
+    font-size: 11px;
+    transform: translateY(410%);
+    margin-left: 19%;
+  }
+  .greetings{
+    transform: translateY(-245%);
+    font-size: 45px;
+  }
+  .intro2{
+    font-size: 10px;
+    transform: translateY(-415%);
+  }
+  .Me2{
+    font-size: 16px;
+    transform: translateY(-485%);
+  }
+  .home_details2{
+    font-size: 15px;
+    transform: translateY(-80%);
+  }
+  .linkedIN2{
+    transform: translateY(-500%);
+    
+  }
+  .GitHub2{
+
+    transform: translateY(-604%);
+  }
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 14px;
+  }
+  .anim{
+    margin-top: -19%;
+  }
+
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 18px;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-140%);
+  }
+  
+  .sql,.Ml,.front_end{
+    transform: translateY(-280%);
+  }
+  /* ````````````````````About me Education``````````````` */
+
+  .Bachelors,.High,.Ml_cert,.Ds_cert{
+
+    font-size: 15px;
+  }
+  
+  .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+
+    font-size: 15px;
+  }
+  /*  Prooooooooojects`````````````````````````````````````````*/
+  .Vina,.Time,.Personal,.Heart,.Neural{
+    font-size: 15px;
+  
+  }
+  .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+    font-size: 15px;
+  }
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 12px;
+    transform: translateY(10%);
+  }
+  .Neural_info,.Heart_info{
+    margin-top: 4%;
+  }
+  .Heart_further{
+    margin-top: 9%;
+  }
+}
+
+/* ``````````````````````````screen at 1100```````````````````````````````` */
+@media screen and (max-width: 1100px) {
+  .anim{
+    transform: translateY(-8%);
+  }
+
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 16px;
+  }
+  .personal_me{
+    font-size: 15px;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-155%);
+  }
+  
+  .sql,.Ml,.front_end{
+    transform: translateY(-305%);
+  }
+  /*  Prooooooooojects`````````````````````````````````````````*/
+  .Vina,.Time,.Personal,.Heart,.Neural a{
+    font-size: 14px;
+    color:  #04AA6D;
+  
+  }
+  .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+    font-size: 14px;
+  }
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 11px;
+    margin-top: 15%;
+  }
+  .Neural_info,.Heart_info{
+    margin-top: 4%;
+  }
+}
+/* ```````````````````````screeen 1000```````````````````````````````````````````` */
+@media screen and (max-width: 1000px) {
+
+    /* About page````````````````````` */
+
+    .Net_intern, .Net_intern_info,.Free,.Free_info{
+      font-size: 13px;
+    }
+    .anim{
+      transform: translateY(-8%);
+    }
+  
+    .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+    .Data_pred,.python_prog,.sql,.Ml,.front_end{
+      font-size: 14px;
+      padding-top: 1%;
+    }
+
+    .personal_me{
+      font-size: 13.5px;
+    }
+      /* ````````````````````About me Education``````````````` */
+
+    .Bachelors,.High,.Ml_cert,.Ds_cert{
+
+    font-size: 13px;
+  }
+  
+    .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+
+    font-size: 12px;
+
+      }
+
+    /*  Prooooooooojects`````````````````````````````````````````*/
+    .Vina,.Time,.Personal,.Heart,.Neural a{
+      font-size: 13px;
+      color:  #04AA6D;
+    
+    }
+    .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+      font-size: 13px;
+    }
+    .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+      font-size: 11px;
+      margin-top: 18%;
+    }
+    .Neural_info,.Heart_info{
+      margin-top: 4%;
+    }
+}
+/* `````````````````````````````````````screen @ 900````````````````` */
+@media screen and (max-width: 900px) {
+  .My_face2{
+    margin-left: 21.5%;
+    transform: translateY(-5%);
+  }
+  .My_name2{
+    font-size: 18px;
+    transform: translateY(350%);
+  }
+  .My_work2{
+    font-size: 10px;
+    transform: translateY(360%);
+    margin-left: 19%;
+  }
+  .greetings{
+    transform: translateY(-245%);
+    font-size: 45px;
+  }
+  .intro2{
+    font-size: 10px;
+    transform: translateY(-415%);
+  }
+  .Me2{
+    font-size: 15px;
+    transform: translateY(-485%);
+    width: 25%;
+  }
+  .home_details2{
+    font-size: 13px;
+    transform: translateY(-80%);
+  }
+  .linkedIN2{
+    transform: translateY(-550%);
+    
+  }
+  .GitHub2{
+
+    transform: translateY(-654%);
+  }
+      /* About page````````````````````` */
+
+      .Net_intern, .Net_intern_info,.Free,.Free_info{
+        font-size: 12px;
+      }
+      .anim{
+        transform: translateY(-22%);
+      }
+    
+      .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+      .Data_pred,.python_prog,.sql,.Ml,.front_end{
+        font-size: 12px;
+        padding-top: 1%;
+      }
+  
+      .personal_me{
+        font-size: 12px;
+      }
+
+      .Data_pred,.web_dev,.python_prog{
+        transform: translateY(-155%);
+      }
+      
+      .sql,.Ml,.front_end{
+        transform: translateY(-315%);
+    }
+    .Vina,.Time,.Personal,.Heart,.Neural a{
+      font-size: 12px;
+      color:  #04AA6D;
+    
+    }
+    .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+      font-size: 12px;
+    }
+    .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+      font-size: 10px;
+      margin-top: 20%;
+    }
+    .Neural_info,.Heart_info{
+      margin-top: 4%;
+    }
+}
+
+
+
+
+/* `````````````````````````````````````screen @ 800````````````````` */
+@media screen and (max-width: 800px) {
+  .My_face2{
+    margin-left: 21.5%;
+    transform: translateY(-8%);
+  }
+  .My_name2{
+    font-size: 15px;
+    transform: translateY(290%);
+  }
+  .My_work2{
+    font-size: 10px;
+    transform: translateY(300%);
+    margin-left: 19%;
+  }
+  .greetings{
+    transform: translateY(-245%);
+    font-size: 40px;
+  }
+  .intro2{
+    font-size: 10px;
+    transform: translateY(-445%);
+  }
+  .Me2{
+    font-size: 15px;
+    transform: translateY(-535%);
+    width: 25%;
+  }
+  .home_details2{
+    font-size: 13px;
+    transform: translateY(-85%);
+  }
+  .linkedIN2{
+    transform: translateY(-580%);
+    margin-left: 26%;
+    
+  }
+  .GitHub2{
+
+    transform: translateY(-684%);
+    margin-left: 34%;
+  }
+    
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 12px;
+  }
+  .anim{
+    transform: translateY(-28%);
+    height: 25vh;
+    width: 25%;
+  }
+
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 11px;
+    padding-top: 2%;
+  }
+
+  .personal_me{
+    font-size: 10px;
+  }
+
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-155%);
+  }
+  
+  .sql,.Ml,.front_end{
+    transform: translateY(-315%); 
+  } 
+  /* ``````````````projects`````````````` */
+  .Vina,.Time,.Personal,.Heart,.Neural a{
+  font-size: 12px;
+  color:  #04AA6D;
+
+  }
+  .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+  font-size: 12px;
+  margin-top: 4%;
+  }
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 10px;
+    margin-top: 25%;
+    }
+  .Time_info{
+  margin-top: 7%;
+    }
+}
+
+
+
+
+/* `````````````````````````````````````screen @ 780````````````````` */
+@media screen and (max-width: 780px) {
+  .My_name{
+    font-size: 12px;
+    transform: translateY(-400%);
+    padding-bottom: 0px;
+    border-bottom: none
+  }
+  .My_work{
+    font-size: 10px;
+    margin-top: -27%;
+    transform: translateY(-350%);
+  }
+  .linkedIN{
+    transform: translateY(-650%);
+    margin-left: 36%;
+  }
+  .GitHub{
+    transform: translateY(-780%);
+    margin-left: 58%;
+  }
+      /* ````````````````````About me Education``````````````` */
+
+  .Bachelors,.High,.Ml_cert,.Ds_cert{
+
+    font-size: 11.5px;
+  }
+  
+  .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+
+    font-size: 11.5px;
+
+  }
+
+}
+
+
+
+/* `````````````````````````````````````screen @ 730````````````````` */
+@media screen and (max-width: 730px) {
+  
+   /* About page````````````````````` */
+
+   .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 12px;
+  }
+  .anim{
+    transform: translateY(-40%);
+  }
+
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 10px;
+    padding-top: 2%;
+  }
+
+  .personal_me{
+    font-size: 9px;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-155%);
+  }
+  
+  .sql,.Ml,.front_end{
+    transform: translateY(-315%);
+  }
+  /* ``````````````projects`````````````` */
+  .Vina,.Time,.Personal,.Heart,.Neural a{
+    font-size: 11px;
+    color:  #04AA6D;
+
+  }
+  .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+    font-size: 11px;
+    margin-top: 6%;
+  }
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 9px;
+    margin-top: 30%;
+  }
+  .Time_info{
+    margin-top: 9%;
+  }
+}
+
+/* `````````````````````````````````````screen @ 700````````````````` */
+@media screen and (max-width: 700px) {
+  .My_face2{
+    margin-left: 21.5%;
+    transform: translateY(-10%);
+  }
+  .My_name2{
+    font-size: 14px;
+    transform: translateY(270%);
+  }
+  .My_work2{
+    font-size: 9px;
+    transform: translateY(290%);
+    margin-left: 17%;
+  }
+  .greetings{
+    transform: translateY(-245%);
+    font-size: 40px;
+  }
+  .intro2{
+    font-size: 10px;
+    transform: translateY(-445%);
+  }
+  .Me2{
+    font-size: 14px;
+    transform: translateY(-535%);
+    width: 25%;
+  }
+  .home_details2{
+    font-size: 12px;
+    transform: translateY(-85%);
+  }
+  .linkedIN2{
+    transform: translateY(-580%);
+    margin-left: 26%;
+    
+  }
+  .GitHub2{
+
+    transform: translateY(-684%);
+    margin-left: 34%;
+  }
+
+    /* About page````````````````````` */
+
+    .Net_intern, .Net_intern_info,.Free,.Free_info{
+      font-size: 11px;
+    }
+    .anim{
+      transform: translateY(-45%);
+      height: 25vh;
+      width: 25%;
+    }
+  
+    .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+    .Data_pred,.python_prog,.sql,.Ml,.front_end{
+      font-size: 9px;
+      padding-top: 3%;
+    }
+    
+    .Data_pred,.web_dev,.python_prog{
+      transform: translateY(-160%);
+    }
+    
+    .sql,.Ml,.front_end{
+      transform: translateY(-320%);
+  }
+
+}
+
+
+
+/* `````````````````````````````````````screen @ 640````````````````` */
+@media screen and (max-width: 640px) {
+  .first_back{
+   visibility: hidden;
+  }
+  .second_back{
+    margin-top: 2%;
+    height: 80vh;
+    width: 90%;
+    margin-left: 5%;
+    visibility: hidden;
+    visibility: visible;
+    position: absolute;
+  }
+  .My_face2{
+    margin-left: 10%;
+    height:35vh;
+    width: 35%;
+    transform: translateY(-25%);
+    position: absolute;
+  }
+  .My_name2{
+    font-size: 20px;
+    /* background-color: cadetblue; */
+    width: 40%;
+    transform: translateY(-80%);
+    padding-top: 2%;
+    margin-left: 45%;
+    position: absolute;
+  }
+  .My_work2{
+    font-size: 14px;
+    width: 50%;
+    /* background-color: palegreen; */
+    transform: translateY(-15%);
+    margin-left: 45%;
+    position: absolute;
+  }
+  .linkedIN2{
+    transform: translateY(-130%);
+    margin-left: 45%;
+    position: absolute;
+    
+  }
+  .GitHub2{
+
+    transform: translateY(-182%);
+    margin-left: 55%;
+    position: absolute;
+    
+  }
+  .greetings{
+    transform: translateY(185%);
+     /* background-color: #1f67db; */
+    font-size: 50px;
+    margin-left: 10%;
+    position: absolute;
+  }
+  .intro2{
+    font-size: 12px;
+    transform: translateY(435%);
+    margin-left: 10%;
+    /* background-color: #B85BBB; */
+    position: absolute;
+
+  }
+  .Me2{
+    font-size: 17px;
+    transform: translateY(545%);
+    width: 50%;
+    /* background-color: #34cc94; */
+    margin-left: 10%;
+    position: absolute;
+  }
+  .home_details2{
+    font-size: 15px;
+    transform: translateY(150%);
+    margin-left: 10%;
+    /* background-color: chocolate; */
+    width: 75%;
+    height: 20vh;
+
+    position: absolute;
+  }
+
+
+     /* About page````````````````````` */
+
+     .Net_intern, .Net_intern_info,.Free,.Free_info{
+      font-size: 11px;
+    }
+    .anim{
+      transform: translateY(-55%);
+      height: 25vh;
+      width: 25%;
+    }
+  
+    .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+    .Data_pred,.python_prog,.sql,.Ml,.front_end{
+      font-size: 8.5px;
+      padding-top: 3%;
+    }
+    .Data_pred,.web_dev,.python_prog{
+      transform: translateY(-160%);
+    }
+    
+    .sql,.Ml,.front_end{
+      transform: translateY(-330%);
+    }
+    .personal_me{
+      font-size: 13px;
+    }
+    .Free{
+      margin-top: -2%;
+    }
+    .Free_info{
+      margin-top: 5%;
+    }
+
+     /* ````````````````````About me Education``````````````` */
+
+  .Bachelors,.High,.Ml_cert,.Ds_cert{
+    margin-left: 5%;
+    width: 25%;
+    font-size: 11.5px;
+  }
+  
+  .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+    width: 60%;
+    font-size: 11.5px;
+    margin-left: 45%;
+    transform: translateY(-444%);
+
+  }
+  .vertical2{
+    transform: translateY(-197%);
+  } 
+      /*  Prooooooooojects`````````````````````````````````````````*/
+  .Vina,.Time,.Personal,.Heart,.Neural a{
+    font-size: 15px;
+    color:  #04AA6D;
+
+  }
+  .Vina,.Time,.Personal,.Heart,.Neural{
+    width: 100%;
+    margin-left: 0%;
+    text-align: center;
+  }
+  .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+    font-size: 15px;
+    margin-top: 1%;
+  }
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 12px;
+    margin-top: 5%;
+  }
+  .Neural_info,.Heart_info{
+    margin-top: 2%;
+  }
+  .Heart_further{
+    margin-top: 5%;
+  }
+  .Vina_further{
+    margin-top: 10%;
+  }
+  /* ``````````````````````````contact```````````````` */
+  .cont{
+    height: 35vh;
+    width: 35%;
+    margin-top: -3%;
+    margin-left: 32.5%;
+    margin-bottom: -35%;
+  }
+}
+/* ``````````````````````````screen at 585`````````````````````````` */
+
+@media screen and (max-width: 576px){
+   /* About page````````````````````` */
+
+   .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 10px;
+  }
+  .anim{
+    visibility: hidden;
+  }
+
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 11px;
+    padding-top: 3%;
+    width: 25%;
+    margin-left: 10%;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-160%);
+    margin-left: 40%;
+    
+  }
+  
+  .sql,.Ml,.front_end{
+    transform: translateY(-320%);
+    margin-left: 70%;
+  }
+  .personal_me{
+    font-size: 13px;
+  }
+  .Free{
+    margin-top: -2%;
+  }
+  .Free_info{
+    margin-top: 5%;
+  }
+
+}
+    
+
+
+/* ``````````````````````````screen at 485`````````````````````````` */
+
+@media screen and (max-width: 485px) {
+  .first_back{
+    visibility: hidden;
+   }
+   .second_back{
+     margin-top: 2%;
+     height: 80vh;
+     width: 90%;
+     margin-left: 5%;
+     visibility: hidden;
+     visibility: visible;
+     position: absolute;
+   }
+   .My_face2{
+     margin-left: 10%;
+     height:35vh;
+     width: 35%;
+     transform: translateY(-25%);
+     position: absolute;
+   }
+   .My_name2{
+     font-size: 16px;
+     /* background-color: cadetblue; */
+     width: 40%;
+     transform: translateY(-80%);
+     padding-top: 2%;
+     margin-left: 47%;
+     position: absolute;
+   }
+   .My_work2{
+     font-size: 12px;
+     width: 50%;
+     /* background-color: palegreen; */
+     transform: translateY(-15%);
+     margin-left: 47%;
+     position: absolute;
+   }
+   .linkedIN2{
+     transform: translateY(-130%);
+     margin-left: 47%;
+     position: absolute;
+     
+   }
+   .GitHub2{
+ 
+     transform: translateY(-182%);
+     margin-left: 57%;
+     position: absolute;
+     
+   }
+   .greetings{
+     transform: translateY(185%);
+      /* background-color: #1f67db; */
+     font-size: 45px;
+     margin-left: 10%;
+     position: absolute;
+   }
+   .intro2{
+     font-size: 10px;
+     transform: translateY(435%);
+     margin-left: 10%;
+     /* background-color: #B85BBB; */
+     position: absolute;
+ 
+   }
+   .Me2{
+     font-size: 15px;
+     transform: translateY(545%);
+     width: 50%;
+     /* background-color: #34cc94; */
+     margin-left: 10%;
+     position: absolute;
+   }
+   .home_details2{
+     font-size: 13px;
+     transform: translateY(150%);
+     margin-left: 10%;
+     /* background-color: chocolate; */
+     width: 75%;
+     height: 20vh;
+ 
+     position: absolute;
+   }
+ 
+ 
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+   font-size: 9px;
+ }
+
+ .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+ .Data_pred,.python_prog,.sql,.Ml,.front_end{
+   font-size: 10.5px;
+   padding-top: 3%;
+   width: 30%;
+   margin-left: 10%;
+ }
+ .Data_pred,.web_dev,.python_prog{
+  transform: translateY(-170%);
+  margin-left: 55%;
+ }
+  
+ 
+ .sql,.Ml,.front_end{
+   margin-left: 55%;
+   transform: translateY(10%);
+
+ }
+ .anim{
+  visibility: visible;
+  transform: translateY(-3%);
+  height: 25vh;
+  width: 25%;
+  margin-left: 10%;
+  }
+
+ .personal_me{
+   font-size: 12px;
+ }
+ .Free{
+   margin-top: -2%;
+ }
+ .Free_info{
+   margin-top: 5%;
+ }
+      /*  Prooooooooojects`````````````````````````````````````````*/
+      .Vina,.Time,.Personal,.Heart,.Neural a{
+        font-size: 15px;
+        color:  #04AA6D;
+      
+      }
+      .Vina,.Time,.Personal,.Heart,.Neural{
+        width: 100%;
+        margin-left: 0%;
+        text-align: center;
+      }
+      .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+        font-size: 15px;
+        margin-top: 1%;
+      }
+      .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+        font-size: 12px;
+        margin-top: 12%;
+      }
+      .Neural_info,.Heart_info{
+        margin-top: 2%;
+      }
+      .Heart_further{
+        margin-top: 5%;
+      }
+      .Vina_further{
+        margin-top: 15%;
+      }
+
+}
+
+
+/* `````````````````````````````````````screen @ 440````````````````` */
+@media screen and (max-width: 440px) {
+  .My_name{
+    font-size: 19px;
+    margin-top: -23%;
+    transform: translateY(-140%);
+    padding-bottom: 1px;
+    border-bottom: 1px solid #1f67db;
+  }
+  .My_work{
+    font-size: 13px;
+    margin-top: -19%;
+    transform: translateY(-100%);
+  }
+  .home_details{
+    font-size: 14px;
+    transform: translateY(-355%);
+  }
+  .linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    transform: translateY(-490%);
+    margin-left: 36%;
+  }
+  .GitHub{
+    transform: translateY(-640%);
+    margin-left: 56%;
+  }
+  /* ``````````````````About me````````````````` */
+  .anim{
+    visibility: visible;
+    transform: translateY(-10%);
+    height: 25vh;
+    width: 25%;
+    margin-left: 10%;
+  }
+        /*  Prooooooooojects`````````````````````````````````````````*/
+        .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+          font-size: 12px;
+          margin-top: 12%;
+        }
+        .Heart_further{
+          margin-top: 8%;
+        }
+        .Vina_further{
+          margin-top: 15%;
+        }
+}
+
+
+/* `````````````````````````````````````screen @ 400````````````````` */
+@media screen and (max-width: 400px) {
+  .first_back{
+    visibility: hidden;
+   }
+   .second_back{
+     margin-top: 2%;
+     height: 80vh;
+     width: 90%;
+     margin-left: 5%;
+     visibility: hidden;
+     visibility: visible;
+     position: absolute;
+   }
+   .My_face2{
+     margin-left: 10%;
+     height:35vh;
+     width: 35%;
+     transform: translateY(-25%);
+     position: absolute;
+   }
+   .My_name2{
+     font-size: 15px;
+     /* background-color: cadetblue; */
+     width: 40%;
+     transform: translateY(-80%);
+     padding-top: 2%;
+     margin-left: 47%;
+     position: absolute;
+   }
+   .My_work2{
+     font-size: 10px;
+     width: 50%;
+     /* background-color: palegreen; */
+     transform: translateY(-15%);
+     margin-left: 47%;
+     position: absolute;
+   }
+   .linkedIN2{
+     transform: translateY(-130%);
+     margin-left: 47%;
+     position: absolute;
+     
+   }
+   .GitHub2{
+ 
+     transform: translateY(-182%);
+     margin-left: 57%;
+     position: absolute;
+     
+   }
+   .greetings{
+     transform: translateY(185%);
+      /* background-color: #1f67db; */
+     font-size: 40px;
+     margin-left: 10%;
+     position: absolute;
+   }
+   .intro2{
+     font-size: 9px;
+     transform: translateY(405%);
+     margin-left: 10%;
+     /* background-color: #B85BBB; */
+     position: absolute;
+ 
+   }
+   .Me2{
+     font-size: 14px;
+     transform: translateY(545%);
+     width: 50%;
+     /* background-color: #34cc94; */
+     margin-left: 10%;
+     position: absolute;
+   }
+   .home_details2{
+     font-size: 11px;
+     transform: translateY(150%);
+     margin-left: 10%;
+     /* background-color: chocolate; */
+     width: 75%;
+     height: 20vh;
+ 
+     position: absolute;
+   }
+ 
+
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 9px;
+  }
+ 
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 9.5px;
+    padding-top: 3%;
+    width: 30%;
+    margin-left: 10%;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-190%);
+    margin-left: 55%;
+    
+  }
+  
+  .sql,.Ml,.front_end{
+    margin-left: 55%;
+    transform: translateY(10%);
+ 
+  }
+  .anim{
+   visibility: visible;
+   transform: translateY(-15%);
+   height: 25vh;
+   width: 25%;
+   margin-left: 10%;
+ }
+  .personal_me{
+    font-size: 12px;
+  }
+  .Free{
+    margin-top: -2%;
+  }
+  .Free_info{
+    margin-top: 5%;
+  }
+  .vertical2{
+    transform: translateY(-193%);
+  }
+   /*  Prooooooooojects`````````````````````````````````````````*/
+   .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 12px;
+    margin-top: 12%;
+  }
+  .Heart_further{
+    transform: translateY(15%);
+  }
+  .Vina_further{
+    margin-top: 25%;
+    transform: translateY(30%);
+  }
+   /* ````````````````````About me Education``````````````` */
+
+   .Bachelors,.High,.Ml_cert,.Ds_cert{
+    margin-left: 5%;
+    width: 25%;
+    font-size: 10.5px;
+  }
+  
+  .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+    width: 60%;
+    font-size: 10.5px;
+    margin-left: 45%;
+    transform: translateY(-434%);
+  }
+}
+
+
+
+/* `````````````````````````````````````screen @ 355````````````````` */
+@media screen and (max-width: 355px) {
+  .first_back{
+    visibility: hidden;
+   }
+   .second_back{
+     margin-top: 2%;
+     height: 80vh;
+     width: 90%;
+     margin-left: 5%;
+     visibility: hidden;
+     visibility: visible;
+     position: absolute;
+   }
+   .My_face2{
+     margin-left: 10%;
+     height:35vh;
+     width: 35%;
+     transform: translateY(-55%);
+     position: absolute;
+   }
+   .My_name2{
+     font-size: 13px;
+     /* background-color: cadetblue; */
+     width: 40%;
+     transform: translateY(-190%);
+     padding-top: 2%;
+     margin-left: 47%;
+     position: absolute;
+   }
+   .My_work2{
+     font-size: 9px;
+     width: 50%;
+     /* background-color: palegreen; */
+     transform: translateY(-125%);
+     margin-left: 47%;
+     position: absolute;
+   }
+   .linkedIN2{
+     transform: translateY(-320%);
+     margin-left: 47%;
+     position: absolute;
+     
+   }
+   .GitHub2{
+ 
+     transform: translateY(-372%);
+     margin-left: 57%;
+     position: absolute;
+     
+   }
+   .greetings{
+     transform: translateY(100%);
+      /* background-color: #1f67db; */
+     font-size: 30px;
+     margin-left: 10%;
+     position: absolute;
+   }
+   .intro2{
+     font-size: 9px;
+     width: 45%;
+     transform: translateY(235%);
+     margin-left: 10%;
+     /* background-color: #B85BBB; */
+     position: absolute;
+ 
+   }
+   .Me2{
+     font-size: 14px;
+     transform: translateY(305%);
+     width: 50%;
+     /* background-color: #34cc94; */
+     margin-left: 10%;
+     position: absolute;
+   }
+   .home_details2{
+     font-size: 9px;
+     transform: translateY(90%);
+     margin-left: 10%;
+     /* background-color: chocolate; */
+     width: 75%;
+     height: 20vh;
+ 
+     position: absolute;
+   }
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 9px;
+  }
+  .anim{
+    visibility: hidden;
+  }
+ 
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 8px;
+    padding-top: 3%;
+    width: 30%;
+    margin-left: 10%;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    transform: translateY(-215%);
+    margin-left: 55%;
+    
+  }
+  
+  .sql,.Ml,.front_end{
+    margin-left: 55%;
+    transform: translateY(10%);
+ 
+  }
+  .anim{
+   visibility: visible;
+   transform: translateY(-25%);
+   height: 25vh;
+   width: 25%;
+   margin-left: 10%;
+ }
+  .personal_me{
+    font-size: 12px;
+  }
+  .Free{
+    font-size: 8px;
+    margin-top: -2%;
+  }
+  .Free_info{
+    margin-top: 5%;
+  }
+  /* ````````````````````About me Education``````````````` */
+
+  .Bachelors,.High,.Ml_cert,.Ds_cert{
+    margin-left: 5%;
+    width: 25%;
+    font-size: 10px;
+  }
+  
+  .Bachelors_info,.Ml_cert_info,.Ds_cert_info,.High_info{
+    width: 60%;
+    font-size: 10px;
+    margin-left: 45%;
+    transform: translateY(-430%);
+  }
+  .vertical2{
+  transform: translateY(-192%);
+  }
+
+
+  /*  Prooooooooojects`````````````````````````````````````````*/
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 12px;
+    margin-top: 22%;
+  }
+  .Heart_further{
+    transform: translateY(25%);
+  }
+  .Vina_further{
+    margin-top: 35%;
+    transform: translateY(30%);
+  }
+}
+
+
+     
+
+/* `````````````````````````````````````screen @ 330````````````````` */
+@media screen and (max-width: 330px) {
+  .My_name{
+    font-size: 14px;
+    margin-top: -28%;
+    transform: translateY(-190%);
+    border-bottom: none;
+  }
+  .My_work{
+    font-size: 10px;
+    margin-top: -27%;
+    transform: translateY(-170%);
+  }
+  .greetings{
+    font-size: 40px;
+  }
+  .intro{
+    font-size: 10px;
+    width: 60%;
+    transform: translateY(-1080%);
+  }
+  .Me{
+    font-size: 13px;
+    transform: translateY(-1200%);
+    width: 70%;
+  }
+  .home_details{
+    font-size: 12px;
+    transform: translateY(-355%);
+  }.linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    transform: translateY(-530%);
+    margin-left: 36%;
+  }
+  .GitHub{
+    transform: translateY(-660%);
+    margin-left: 52%;
+  }
+
+}
+
+
+ /*~~~~~~~~~~~~~~~~screen @ 320`````````````````````````````````  */
+@media screen and (max-width: 320px) {
+  .first_back{
+    visibility: hidden;
+   }
+   .second_back{
+     margin-top: 2%;
+     height: 80vh;
+     width: 90%;
+     margin-left: 5%;
+     visibility: hidden;
+     visibility: visible;
+     position: absolute;
+   }
+   .My_face2{
+     margin-left: 10%;
+     height:35vh;
+     width: 35%;
+     transform: translateY(-75%);
+     position: absolute;
+   }
+   .My_name2{
+     font-size: 11px;
+     /* background-color: cadetblue; */
+     width: 40%;
+     transform: translateY(-290%);
+     padding-top: 4%;
+     margin-left: 47%;
+     position: absolute;
+   }
+   .My_work2{
+     font-size: 8px;
+     width: 50%;
+     /* background-color: palegreen; */
+     transform: translateY(-225%);
+     margin-left: 47%;
+     position: absolute;
+   }
+   .linkedIN2{
+     transform: translateY(-470%);
+     margin-left: 47%;
+     position: absolute;
+     
+   }
+   .GitHub2{
+ 
+     transform: translateY(-522%);
+     margin-left: 57%;
+     position: absolute;
+     
+   }
+   .greetings{
+     transform: translateY(80%);
+      /* background-color: #1f67db; */
+     font-size: 30px;
+     margin-left: 10%;
+     position: absolute;
+   }
+   .intro2{
+     font-size: 9px;
+     width: 45%;
+     transform: translateY(195%);
+     margin-left: 10%;
+     /* background-color: #B85BBB; */
+     position: absolute;
+ 
+   }
+   .Me2{
+     font-size: 14px;
+     transform: translateY(255%);
+     width: 50%;
+     /* background-color: #34cc94; */
+     margin-left: 10%;
+     position: absolute;
+   }
+   .home_details2{
+     font-size: 9px;
+     transform: translateY(80%);
+     margin-left: 10%;
+     /* background-color: chocolate; */
+     width: 75%;
+     height: 20vh;
+ 
+     position: absolute;
+   }
+  /* About page````````````````````` */
+
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 8px;
+
+  }
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 10px;
+    padding-top: 3%;
+    width: 40%;
+    margin-left: 55%;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    margin-left: 55%;
+    transform: translateY(50%);
+  }
+  
+  .sql,.Ml,.front_end{
+    margin-left: 55%;
+    transform: translateY(70%);
+ 
+  }
+  .anim{
+   visibility: visible;
+   transform: translateY(-100%);
+   height: 25vh;
+   width: 25%;
+   margin-left: 10%;
+ }
+  .personal_me{
+    font-size: 12px;
+  }
+  .Free{
+    font-size: 8px;
+    margin-top: -2%;
+  }
+  .Free_info{
+    margin-top: 5%;
+  }
+  .vertical{
+    visibility: visible;
+  }
+  /*  Prooooooooojects`````````````````````````````````````````*/
+  .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+    font-size: 12px;
+    margin-top: 27%;
+  }
+  .Heart_further{
+    transform: translateY(35%);
+  }
+  .Vina_further{
+    margin-top: 35%;
+    transform: translateY(40%);
+  }
+
+
+}
+
+
+
+/* ````````````````````````````````````screen @ 280``````````````````````````````````` */
+@media screen and (max-width: 280px) {
+  .first_back{
+    visibility: hidden;
+   }
+   .second_back{
+     margin-top: 2%;
+     height: 80vh;
+     width: 90%;
+     margin-left: 5%;
+    visibility: visible;
+     position: absolute;
+   }
+   .My_face2{
+     margin-left: 10%;
+     height:35vh;
+     width: 35%;
+     transform: translateY(-75%);
+     position: absolute;
+   }
+   .My_name2{
+     font-size: 11px;
+     /* background-color: cadetblue; */
+     width: 40%;
+     transform: translateY(-290%);
+     padding-top: 4%;
+     margin-left: 47%;
+     position: absolute;
+     visibility: hidden;
+   }
+   .My_work2{
+     font-size: 8px;
+     width: 50%;
+     /* background-color: palegreen; */
+     transform: translateY(-225%);
+     margin-left: 47%;
+     position: absolute;
+     visibility: hidden;
+   }
+   .linkedIN2{
+     transform: translateY(-470%);
+     margin-left: 47%;
+     position: absolute;
+     visibility: hidden;
+     
+   }
+   .GitHub2{
+ 
+     transform: translateY(-522%);
+     margin-left: 57%;
+     position: absolute;
+     visibility: hidden;
+     
+   }
+   .greetings{
+     transform: translateY(80%);
+      /* background-color: #1f67db; */
+     font-size: 30px;
+     margin-left: 10%;
+     position: absolute;
+     visibility: hidden;
+   }
+   .intro2{
+     font-size: 9px;
+     width: 45%;
+     transform: translateY(195%);
+     margin-left: 10%;
+     /* background-color: #B85BBB; */
+     position: absolute;
+     visibility: hidden;
+ 
+   }
+   .Me2{
+     font-size: 14px;
+     transform: translateY(255%);
+     width: 50%;
+     /* background-color: #34cc94; */
+     margin-left: 10%;
+     position: absolute;
+     visibility: hidden;
+   }
+   .home_details2{
+     font-size: 9px;
+     transform: translateY(80%);
+     margin-left: 10%;
+     /* background-color: chocolate; */
+     width: 75%;
+     height: 20vh;
+ 
+     position: absolute;
+     visibility: hidden;
+   }
+}
+
+/* `````````````````````````````````````screen @ 250````````````````` */
+@media screen and (max-width: 250px) {
+  .My_name{
+    font-size: 12px;
+    margin-top: -32%;
+    transform: translateY(-350%);
+    border-bottom: none;
+  }
+  .My_work{
+    font-size: 8px;
+    margin-top: -29%;
+    transform: translateY(-330%);
+  }
+  .greetings{
+    font-size: 35px;
+  }
+  .intro{
+    font-size: 9px;
+    width: 60%;
+    transform: translateY(-1100%);
+  }
+  .Me{
+    font-size: 12px;
+    transform: translateY(-1300%);
+    width: 70%;
+  }
+  .home_details{
+    font-size: 11px;
+    transform: translateY(-405%);
+  }.linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    transform: translateY(-730%);
+    margin-left: 32%;
+  }
+  .GitHub{
+    transform: translateY(-860%);
+    margin-left: 54%;
+  }
+  /* ````````````About me````````````````````` */
+  
+  .Net_intern, .Net_intern_info,.Free,.Free_info{
+    font-size: 9px;
+    visibility: hidden;
+  }
+
+ 
+  .Data_analysis,.Data_viz,.Data_extract,.web_dev,
+  .Data_pred,.python_prog,.sql,.Ml,.front_end{
+    font-size: 7px;
+    padding-top: 3%;
+    width: 40%;
+    margin-left: 55%;
+  }
+  .Data_pred,.web_dev,.python_prog{
+    margin-left: 55%;
+    transform: translateY(50%);
+  }
+  
+  .sql,.Ml,.front_end{
+    margin-left: 55%;
+    transform: translateY(70%);
+ 
+  }
+  .anim{
+   visibility: visible;
+   transform: translateY(-120%);
+   height: 20vh;
+   width: 20%;
+   margin-left: 10%;
+ }
+  .personal_me{
+    font-size: 12px;
+  }
+  .Free{
+    font-size: 8px;
+    margin-top: -2%;
+    
+  }
+  .Free_info{
+    margin-top: 5%;
+  }
+  .vertical{
+    visibility: hidden;
+  }
+    /*  Prooooooooojects`````````````````````````````````````````*/
+    .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+      font-size: 10px;
+      margin-top: 35%;
+      visibility: hidden;
+    }
+    .Heart_further{
+      transform: translateY(50%);
+    }
+    .Vina_further{
+      margin-top: 25%;
+      transform: translateY(65%);
+    }
+    .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+      font-size: 12px;
+      margin-top: 5%;
+    }
+    .Neural_info{
+      margin-top: 10%;
+    }
+}
+
+
+
+
+
+/* `````````````````````````````````````screen @ 200````````````````` */
+@media screen and (max-width: 200px) {
+  .My_name{
+    font-size: 12px;
+    margin-top: -45%;
+    transform: translateY(-450%);
+    border-bottom: none;
+  }
+  .My_work{
+    font-size: 8px;
+    margin-top: -40%;
+    transform: translateY(-420%);
+  }
+  .greetings{
+    font-size: 30px;
+  }
+  .intro{
+    visibility: hidden;
+  }
+  .Me{
+    font-size: 10px;
+    transform: translateY(-1300%);
+    width: 70%;
+  }
+  .home_details{
+    font-size: 9px;
+    transform: translateY(-405%);
+  }.linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    visibility: hidden;
+  }
+  .GitHub{
+    visibility: hidden;
+  }
+      /*  Prooooooooojects`````````````````````````````````````````*/
+      .Vina_further,.Time_further,.Personal_further,.Heart_further,.Neural_further{
+        font-size: 10px;
+        margin-top: 35%;
+        visibility: hidden;
+      }
+      .Heart_further{
+        transform: translateY(50%);
+      }
+      .Vina_further{
+        margin-top: 25%;
+        transform: translateY(65%);
+      }
+      .Vina_info,.Time_info,.Personal_info,.Heart_info,.Neural_info{
+        font-size: 10px;
+        margin-top: 5%;
+        visibility: hidden;
+      }
+      .Neural_info{
+        margin-top: 10%;
+      }
+
+}
+
+
+
+/* `````````````````````````````````````screen @ 125````````````````` */
+@media screen and (max-width: 125px) {
+  .My_name{
+    font-size: 10px;
+    margin-top: -100%;
+    transform: translateY(-650%);
+    border-bottom: none;
+  }
+  .My_work{
+    font-size: 7px;
+    margin-top: -80%;
+    transform: translateY(-620%);
+  }
+  .greetings{
+    font-size: 30px;
+  }
+  .intro{
+    visibility: hidden;
+  }
+  .Me{
+    font-size: 9px;
+    transform: translateY(-1320%);
+    width: 70%;
+  }
+  .home_details{
+    font-size: 7px;
+    transform: translateY(-405%);
+  }.linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    visibility: hidden;
+  }
+  .GitHub{
+    visibility: hidden;
+  }
+
+}
+
+
+
+
+
+
+
+/* `````````````````````````````````````screen @ 95````````````````` */
+@media screen and (max-width: 95px) {
+  .My_profession{
+    margin-top: -50%;
+  }
+  .My_name{
+    visibility: hidden;
+  }
+  .My_work{
+    visibility: hidden;
+  }
+  .greetings{
+    font-size: 10px;
+  }
+  .intro{
+    visibility: hidden;
+  }
+  .Me{
+    font-size: 5px;
+    transform: translateY(-1320%);
+    width: 70%;
+  }
+  .home_details{
+    font-size: 4px;
+    transform: translateY(-405%);
+  }.linkedIN,.GitHub{
+    height: 4vh;
+    width:8%;
+  }
+  .linkedIN{
+    visibility: hidden;
+  }
+  .GitHub{
+    visibility: hidden;
+  }
+
+}
+
+
+ /* ~~~~~~~~~~~~~~height~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* @media screen and (max-height: 550px) {
+  .My_face{
+    border-radius: 1px;
+  }
+  .My_name{
+    font-size: 16px;
+    margin-top: -18%;
+    transform: translateY(-220%);
+    padding-bottom: 2px;
+    position: absolute;
+  }
+  .My_work{
+    font-size: 12px;
+    margin-top: -15%;
+    transform: translateY(-180%);
+    position: absolute;
+  }
+  .greetings{
+    font-size: 45px;
+  }
+  .intro{
+    font-size: 10px;
+    width: 60%;
+    transform: translateY(-1080%);
+  }
+  .Me{
+    font-size: 15px;
+    transform: translateY(-1250%);
+    width: 65%;
+  }
+  .home_details{
+    font-size: 13px;
+    transform: translateY(-390%);
+  }
+  .linkedIN{
+    transform: translateY(-400%);
+    margin-left: 36%;
+    position: absolute;
+  }
+  .GitHub{
+    transform: translateY(-540%);
+    margin-left: 58%;
+    position: absolute;
+  }
+ 
+}
+
+
+@media screen and (max-height: 500px) {
+  .My_face{
+    border-radius: 1px;
+  }
+  .My_name{
+    font-size: 16px;
+    margin-top: -18%;
+    transform: translateY(-220%);
+    padding-bottom: 2px;
+  }
+  .My_work{
+    font-size: 12px;
+    margin-top: -15%;
+    transform: translateY(-180%);
+  }
+  .greetings{
+    font-size: 45px;
+  }
+  .intro{
+    font-size: 10px;
+    width: 60%;
+    transform: translateY(-1060%);
+  }
+  .Me{
+    font-size: 15px;
+    transform: translateY(-1250%);
+    width: 65%;
+  }
+  .home_details{
+    font-size: 13px;
+    transform: translateY(-390%);
+  }
+  .linkedIN{
+    transform: translateY(-450%);
+    margin-left: 36%;
+  }
+  .GitHub{
+    transform: translateY(-590%);
+    margin-left: 58%;
+  }
+ 
+}
+
+
+
+@media screen and (max-height: 450px) {
+  .My_face{
+    border-radius: 1px;
+  }
+  .My_name{
+    font-size: 16px;
+    margin-top: -19%;
+    transform: translateY(-240%);
+    padding-bottom: 2px;
+  }
+  .My_work{
+    font-size: 12px;
+    margin-top: -16%;
+    transform: translateY(-190%);
+  }
+  .greetings{
+    font-size: 45px;
+  }
+  .intro{
+    font-size: 10px;
+    width: 60%;
+    transform: translateY(-1030%);
+  }
+  .Me{
+    font-size: 15px;
+    transform: translateY(-1250%);
+    width: 65%;
+  }
+  .home_details{
+    font-size: 13px;
+    transform: translateY(-390%);
+  }
+  .linkedIN{
+    transform: translateY(-500%);
+    margin-left: 36%;
+  }
+  .GitHub{
+    transform: translateY(-640%);
+    margin-left: 58%;
+  }
+ 
+} */
